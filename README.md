@@ -45,7 +45,7 @@
   <li>Full Stack Developer | Web And Mobile (2023) - Design and creation of a plateform at ADCAPITALE </li>
   <li>Internship at SMART INFLUENCER Company (2021) - Design and creation of a hotel reservation website</li>
 </ul>
-
+<a href="https://www.buymeacoffee.com/aymaneelbhiri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

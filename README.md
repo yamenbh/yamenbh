@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aymane_elbhiri" target="blank"><img src="https://img.shields.io/twitter/follow/aymane_elbhiri?logo=twitter&style=for-the-badge" alt="aymane_elbhiri" /></a> </p>
 
-- 🔭 I’m currently working on [Inventory management website with PHP](https://github.com/yamenbh/inventory-management)
+- 🔭 I’m currently working on [Inventory management website with JAVA](https://github.com/yamenbh/inventory-management)
 
 - 🥅 2023 Goals: Contribute more to Open Source projects
 

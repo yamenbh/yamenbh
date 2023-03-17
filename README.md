@@ -12,11 +12,11 @@
 
 - 👯 I'm always eager to learn and share my learning
 
-- 🌱 I’m currently learning **Laravel and React Js.**
+- 🌱 I’m currently learning **Spring Boot and React Js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yamenbh](https://github.com/yamenbh)
 
-- 💬 Ask me about **PHP, Laravel, Bootstrap, Java , C++ , C**
+- 💬 Ask me about **PHP, Laravel, Bootstrap, Java , Spring Boot  , C++ , C**
 
 - 📫 How to reach me **aymaneaitelbhiri14@gmail.com**
 

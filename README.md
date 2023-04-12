@@ -6,6 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/aymane_elbhiri" target="blank"><img src="https://img.shields.io/twitter/follow/aymane_elbhiri?logo=twitter&style=for-the-badge" alt="aymane_elbhiri" /></a> </p>
 
+<h3>Profile Views</h3>
+ <p align="left"> <img src="https://profile-counter.glitch.me/yamenbh/count.svg" alt="desphixs" /> </p>
+
+ </br>
+
 - 🔭 I’m currently working on [Inventory management website with JAVA](https://github.com/yamenbh/inventory-management)
 
 - 🥅 2023 Goals: Contribute more to Open Source projects

@@ -1,5 +1,4 @@
-![MasterHead
-![Git Wallpaper](https://raw.githubusercontent.com/yamenbh/yamenbh/main/git-wallpaper.gif)
+![MasterHead](https://raw.githubusercontent.com/yamenbh/yamenbh/main/git-wallpaper.gif)
 
 <h1 align="center">Hi 👋, I'm AYMANE AIT EL BHIRI</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a software engineer with experience in a variety of programming languages and technologies. I enjoy solving complex problems and creating efficient and user-friendly applications.</h3>

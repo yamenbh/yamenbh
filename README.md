@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamenbh&label=Profile%20views&color=0e75b6&style=flat" alt="yamenbh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aymane_elbhiri" target="blank"><img src="https://img.shields.io/twitter/follow/aymane_elbhiri?logo=twitter&style=for-the-badge" alt="aymane_elbhiri" /></a> </p>
-![Git Wallpaper](https://raw.githubusercontent.com/yamenbh/yamenbh/main/git-wallpaper.gif)
 
 <h3>Profile Views</h3>
  <p align="left"> <img src="https://profile-counter.glitch.me/yamenbh/count.svg" alt="desphixs" /> </p>
